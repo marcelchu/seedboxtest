@@ -97,10 +97,10 @@ print("With the given data, we know that "
       + " REBILLs per user and the average amount of REBILLs for must call-in users is " 
       + str("{0:.2f}".format(average_rebill_test)) 
       + " REBILLs per user. If we do a substraction between the amounts, we can see that"
-      + " the must call-in to cancel generate in average "
+      + " the must call-in user generate in average "
       + str("{0:.2f}".format(difference)) 
-      + " more REBILLS than the web-form."
-      + "It is not 1 additionnal REBILL, but this value shows that the must call-in group helps the company make more profit, because they don't want to call to make an cancellation.\n\n")
+      + " more REBILLS than the web-form user."
+      + "It is not 1 additionnal REBILL, but this value shows that the must call-in group helps the company make more profit, because they don't want to call to make an cancellation of their subscription.\n\n")
 
 """
 3 Is a user that must call-in to cancel more likely to generate more revenues?
@@ -132,9 +132,9 @@ print("In total, the web-form users generate "
       + "$ per web-form user and the average revenue amount is "
       + str("{0:.2f}".format(AVGtransAmount_testGroup))
       + "$ per must call-in user. With this information,"
-      + "we can confirm that the must call-in to cancel user is more likely "
+      + "we can confirm that the must call-in user is more likely "
       + "to generate more revenues than the web-form to cancel user."
-      + "In fact, with a simple substraction, the must-call in to cancel test group generate in average "
+      + "In fact, with a simple substraction, the must call-in test group generate in average "
       + str("{0:.2f}".format(revenue_difference)) + "$ more per user than the web form test group."
       + "People don't want to call-in to cancel their subscription therefore they still have to pay.\n\n")
 
