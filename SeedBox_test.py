@@ -132,7 +132,7 @@ print("In total, the web-form users generate "
       + "$ per web-form user and the average revenue amount is "
       + str("{0:.2f}".format(AVGtransAmount_testGroup))
       + "$ per must call-in user. With this information,"
-      + "we can confirm that the must call-in to cancel user is more likely"
+      + "we can confirm that the must call-in to cancel user is more likely "
       + "to generate more revenues than the web-form to cancel user."
       + "In fact, with a simple substraction, the must-call in to cancel test group generate in average "
       + str("{0:.2f}".format(revenue_difference)) + "$ more per user than the web form test group."
