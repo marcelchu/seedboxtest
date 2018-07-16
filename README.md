@@ -23,7 +23,8 @@ After installing Python 3, you can follow the following steps to install the lib
 
 * Open your Command Prompt.
 * Install the libraries.
-	Here are the commands needed:
+
+Here are the commands needed:
 ```
 pip install matplotlib
 pip install pandas
