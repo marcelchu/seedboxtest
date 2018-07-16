@@ -1,3 +1,7 @@
+# Markdown Format
+
+To view the analysis without the code, you can view the markdown file named as  Seedboxtest.ipynb.
+
 # Steps to follow to run the code
 
 ## Description
