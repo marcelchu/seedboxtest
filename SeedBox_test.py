@@ -97,7 +97,7 @@ print("With the given data, we know that "
       + " REBILLs per user and the average amount of REBILLs for must call-in users is " 
       + str("{0:.2f}".format(average_rebill_test)) 
       + " REBILLs per user. If we do a substraction between the amounts, we can see that"
-      + "the must call-in to cancel generate in average "
+      + " the must call-in to cancel generate in average "
       + str("{0:.2f}".format(difference)) 
       + " more REBILLS than the web-form."
       + "It is not 1 additionnal REBILL, but this value shows that the must call-in group helps the company make more profit, because they don't want to call to make an cancellation.\n\n")
