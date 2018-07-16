@@ -17,7 +17,7 @@ Here is a list of the needed installations:
 * matplotlib library
 * pandas library
 
-## 3. How to install the libraries66
+## 3. How to install the libraries
 
 After installing Python 3, you can follow the following steps to install the libraries.
 
